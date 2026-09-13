@@ -2,7 +2,10 @@
 
 ## The question
 
-Which areas in Pedro Bagada, Lagos State are more than 5km from a health facility?
+Which areas in Pedro Gbagada, Lagos State are more than 5km from a health facility?
+
+## Study Area
+Pedro Gbagada, Lagos State, Nigeria.
 
 ## The data I need
 
