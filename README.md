@@ -149,6 +149,7 @@ Which settlements fall within a 200-meter buffer of waterways across administrat
 - Population density data at the settlement level to estimate the actual number of individuals at risk within the 200m buffer zone.
 
 
-# Month 2 (Week 5) : Preparation of environment, and early Python 
+# Month 2 : Preparation of environment, and early Python 
 - week 5: I setup python, vs code and terminal, hello.py runs.
+- Week 6: set up the project with uv and added pandas. check.py prints the pandas version.
 
