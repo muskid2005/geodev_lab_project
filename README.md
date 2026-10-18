@@ -152,4 +152,5 @@ Which settlements fall within a 200-meter buffer of waterways across administrat
 # Month 2 : Preparation of environment, and early Python 
 - week 5: I setup python, vs code and terminal, hello.py runs.
 - Week 6: set up the project with uv and added pandas. check.py prints the pandas version.
+-  Week 7: analyse.py reads wards.csv, converts each area and classifies each ward.
 
