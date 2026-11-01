@@ -154,5 +154,8 @@ Which settlements fall within a 200-meter buffer of waterways across administrat
 - Week 6: set up the project with uv and added pandas. check.py prints the pandas version.
 -  Week 7: analyse.py reads wards.csv, converts each area and classifies each ward.
 -  Week 8: inspect_data.py summarises coordinates in my Lagos health facilities data.
--  Week 9: Refactored my data inspection script into reusable functions. 
+-  Week 9: Refactored my data inspection script into reusable functions.
+
+### Month 2 Reflection
+This month, I finally understood how to break code into reusable functions and process data step by step. I'm still getting comfortable with data cleaning and handling missing or invalid values. My capstone shows that the Month 1 data can be used for meaningful geospatial analysis, but needs proper inspection and preparation first.
 
