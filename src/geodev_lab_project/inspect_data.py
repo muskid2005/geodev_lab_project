@@ -20,7 +20,7 @@
 
 import csv
 def inspect_column(file_name, column):
-    with open (file_name) as f:
+    with open (file_name, encoding="utf-8-sig") as f:
         reader = csv.DictReader(f)
         rows = list(reader)
 
@@ -29,7 +29,7 @@ def inspect_column(file_name, column):
         value = row[column].strip()
         if value == "":
             continue
-        values.append(value)
+        values.append(float(value))
 
     return{
         "Minimun": min(values),
