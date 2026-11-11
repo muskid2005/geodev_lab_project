@@ -159,3 +159,5 @@ Which settlements fall within a 200-meter buffer of waterways across administrat
 ### Month 2 Reflection
 This month, I finally understood how to break code into reusable functions and process data step by step. I'm still getting comfortable with data cleaning and handling missing or invalid values. My capstone shows that the Month 1 data can be used for meaningful geospatial analysis, but needs proper inspection and preparation first.
 
+# Month 3: geospatial Python and automation
+-Week 10: GeoPandas. Loaded, checked, joined and mapped my wards layer in code.
