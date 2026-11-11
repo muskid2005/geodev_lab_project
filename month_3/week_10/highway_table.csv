@@ -1,0 +1,3 @@
+full_id,osm_id,osm_type,wikidata,to:fr,to:ar,to,old_name:fr,old_name:en,old_name:ar,network,name:fr,name:en,name:ar,int_ref:ar,int_ref,from:fr,from:en,from:ar,from,distance,alt_name:en,alt_name:ar,type,route,ref,name
+r2860969,2860969,relation,,,,,,,,,,,,,,,,,,,,,route,road,F265,Federal Road F265
+r5867251,5867251,relation,Q1449946,Lagos,اغوس,Lagos,Route de l'union africain,African Union Road,طريق الاتحاد الأفريقي,Trans-African_Highways,Route transsaharienne,Trans-Sahara Highway,الطريق العابر للصحراء,ط س 2,TAH 2,Alger,Algiers,الجزائر,الجزائر,4504,Algiers–Lagos Highway,الطريق العابرة للصحراء,route,road,,Route transsaharienne
